@@ -18,4 +18,4 @@ Etude for Graph Neural Network
 
 ## [03](https://colab.research.google.com/github/shin-sforzando/etude-GNN/blob/master/GNN03.ipynb)
 
-- Pythonでグラフ構造を扱う(実践編)
+- Pythonでグラフ構造を可視化
